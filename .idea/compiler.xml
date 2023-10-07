@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="nft" />
         <module name="taobao_0" />
+        <module name="selenium-demo" />
       </profile>
     </annotationProcessing>
   </component>

@@ -37,7 +37,7 @@ public class Demo extends JFrame {
         //打开百度
         webDriver.get("https://login.taobao.com/");
         //扫码登录
-        webDriver.findElement(By.className("icon-qrcode")).click();
+        webDriver.findElement(By.className("iconfont icon-qrcode")).click();
         Thread.sleep(10000);
 
 
